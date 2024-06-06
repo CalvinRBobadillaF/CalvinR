@@ -5,9 +5,11 @@
     
 }
 
-.title {
+.h1 {
+
     background-color: gray;
-    font-size: 16px;
+    font-size: auto;
     color: bisque;
-    
+    justify-content: center;
+
 }
