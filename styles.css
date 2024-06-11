@@ -5,11 +5,26 @@
     
 }
 
-.h1 {
-
-    background-color: gray;
-    font-size: auto;
-    color: bisque;
+.container {
+    display: flex;
     justify-content: center;
+    background-color: rgb(160, 137, 101);
+    color: rgb(26, 2, 2);
+}
 
+.item {
+    display: flex;
+    justify-content: center;
+    color: brown;
+    background-color: rgb(249, 224, 184); 
+    
+}
+.nav { 
+    color: red;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50px;
+    left: 0px;
 }
