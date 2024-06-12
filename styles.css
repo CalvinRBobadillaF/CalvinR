@@ -29,7 +29,7 @@
 }
 
 .Main {
-    padding: 100px;
+    padding: 10px;
     background-color: #375fad;
     display: flex;
     flex-wrap: wrap;
@@ -37,6 +37,7 @@
     height: 100%;
     justify-content: center;
     align-items: center;
+    
     
 }
 
